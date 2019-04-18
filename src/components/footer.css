@@ -1,0 +1,13 @@
+.footer-section{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: #2892D7 !important;
+  color: #fff !important;
+}
+a{
+  color: #fff !important;
+}
+.footer-link {
+  margin-top: 8px;
+}
